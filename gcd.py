@@ -1,6 +1,6 @@
 """
 The division-based implementation of Euclidean's algorithm
-for calculating the Greatest Common Divisor
+for calculating the Greatest Common Divisor.
 """
 
 def gcd(a: int, b: int) -> int:
